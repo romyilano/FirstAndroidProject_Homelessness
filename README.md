@@ -8,6 +8,11 @@ This isn't my biggest priority but it will be fun to try out React Native, etc. 
 
 # Problems Homeless People have in America
 * Safety
+* Voting
+  * Not represented in government
+  * Wealthy homeowners vote to kick homeless people out of RVs, camping on streets, sleeping in cars
+  * Not enough social programs
+  * Getting better food stamps benefits 
 * Safe place to sleep at night
   * Shelter space
   * Tent
