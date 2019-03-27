@@ -19,6 +19,7 @@ This isn't my biggest priority but it will be fun to try out React Native, etc. 
 * Keeping your job (at least 30% of homeless in the USA are employed full time?) maybe even more in SF
 * Finding a job
 * Showering
+* Being a homeless child
 * it's more expensive to be poor than rich problems
   * Can't get bank accounts
     * Payday loan expenses 
