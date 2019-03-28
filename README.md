@@ -8,6 +8,11 @@ This isn't my biggest priority but it will be fun to try out React Native, etc. 
 
 # Problems Homeless People have in America
 * Safety
+* Cost of maintaing a car
+  * Few american cities have good public transportation
+  * Homeless people prioritize car payments/maintenance over rent
+  * huge expensive required for poor people to have a car in america
+  * Most american cities hostile to non drivers 
 * Voting
   * Not represented in government
   * Wealthy homeowners vote to kick homeless people out of RVs, camping on streets, sleeping in cars
